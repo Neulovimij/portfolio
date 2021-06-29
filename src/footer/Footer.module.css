@@ -1,0 +1,26 @@
+.footerBlock {
+    height: 50vh;
+    background-color:#d4ffc0 ;
+}
+
+.footerContainer {
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.name {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.title {
+    background-color: lightgray;
+}
+
+.footer {
+    border: 1px solid;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
