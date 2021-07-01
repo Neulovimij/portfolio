@@ -14,6 +14,7 @@ function Projects() {
                 <div className={s.projects}>
                     <Project title = {"Todo"} discription = {"Loren bla bla bla1"} />
                     <Project title = {"SoshNet"} discription = {"Loren bla bla bla2"} />
+                    <Project title = {"SoshNet"} discription = {"Loren bla bla bla2"} />
 
                 </div>
             </div>

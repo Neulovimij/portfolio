@@ -8,13 +8,12 @@ function Footer() {
     return (
         <div className={s.footerBlock}>
             <div className={`${sContainer.container} ${s.footerContainer}`}>
-                <div className={s.name}>
                 <h2 className={s.title}>Алексей Самаль</h2>
-                </div>
                 <div className={s.footer}>
-                    <Project/>
-                    <Project/>
-                    <Project/>
+                    <div className={s.socialIcons}></div>
+                    <div className={s.socialIcons}></div>
+                    <div className={s.socialIcons}></div>
+                    <div className={s.socialIcons}></div>
                 </div>
                 <p>&#169; 2021 Все права защищены</p>
             </div>
